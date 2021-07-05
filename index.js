@@ -7,4 +7,4 @@ figlet('Ascii Ski', function(error, data){
         return;
     }
     console.log(data.rainbow);
-})
+});
